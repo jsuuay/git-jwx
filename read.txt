@@ -1,2 +1,3 @@
 git is asdfghjk GPL
-git is asdfghjk
+git is asdfghj
+Creating a new branch is quick AND simple
